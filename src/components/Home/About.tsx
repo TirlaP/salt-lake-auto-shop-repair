@@ -51,7 +51,7 @@ const AboutSection = () => {
                   }}
                   className="text-center text-4xl font-black text-default md:text-5xl lg:text-start lg:text-6xl lg:leading-[50px] xl:leading-[70px]"
                >
-                  SI'S AUTO REPAIR - SOUTH SALT LAKE'S TRUSTED SHOP
+                  SI&apos;S AUTO REPAIR - SOUTH SALT LAKE&apos;S TRUSTED SHOP
                </MotionH2>
 
                <MotionP
@@ -72,8 +72,8 @@ const AboutSection = () => {
                   }}
                   className="text-center font-body text-base font-normal text-default-foreground md:text-lg md:leading-7 lg:text-start"
                >
-                  Welcome to Si's Auto Repair, your trusted automotive service center in South Salt Lake. Under new ownership, 
-                  we're committed to providing exceptional auto repair services with the same dedication to quality and customer 
+                  Welcome to Si&apos;s Auto Repair, your trusted automotive service center in South Salt Lake. Under new ownership, 
+                  we&apos;re committed to providing exceptional auto repair services with the same dedication to quality and customer 
                   satisfaction. Our experienced team of mechanics brings over 60 years of combined expertise to every repair, 
                   ensuring your vehicle receives the professional care it deserves at competitive prices.
                </MotionP>
@@ -156,7 +156,7 @@ const Founder = ({ className }: FounderProps) => {
       >
          <div className="leading-normal">
             <h4 className="text-lg font-extrabold uppercase leading-7 text-default">
-               Si's Auto Team
+               Si&apos;s Auto Team
             </h4>
             <p className="font-body text-lg font-normal text-default-foreground">
                Expert Mechanics

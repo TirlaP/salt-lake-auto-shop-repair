@@ -11,7 +11,7 @@ const BenefitAccordion = () => {
          <div className="border-b">
             <div className="flex w-full items-center justify-between">
                <h3 className="py-0 text-lg font-black uppercase leading-heavy text-default-black md:py-2.5 md:text-2xl">
-                  Eco-Friendly Practices
+                  Top Mechanics
                </h3>
                {active === 1 ? (
                   <button
@@ -36,16 +36,15 @@ const BenefitAccordion = () => {
                })}
             >
                <p className="font-body text-base font-normal text-default-tertiary lg:text-lg lg:leading-7">
-                  Emphasize your commitment to providing best top-quality
-                  workmanship ensuring that all repairs are done to the highest
-                  standards to guarantee customer satisfaction and safety.
+                  The mechanics at our shop have over 60 years of experience between them. 
+                  They are dedicated to providing high-quality repairs to keep you safe and happy.
                </p>
             </div>
          </div>
          <div className="border-b">
             <div className="flex w-full items-center justify-between">
                <h3 className="py-3 text-xl font-black uppercase text-default-black md:text-2xl lg:py-0 lg:leading-heavy">
-                  quality Workmanship
+                  Competitive Pricing
                </h3>
                {active === 2 ? (
                   <button
@@ -70,16 +69,15 @@ const BenefitAccordion = () => {
                })}
             >
                <p className="font-body text-base font-normal text-default-tertiary lg:text-lg lg:leading-7">
-                  Emphasize your commitment to providing best top-quality
-                  workmanship ensuring that all repairs are done to the highest
-                  standards to guarantee customer satisfaction and safety.
+                  Whether you're coming in for a routine inspection or a repair service, 
+                  we promise that you will be completely satisfied with our work at fair, competitive prices.
                </p>
             </div>
          </div>
          <div className="border-b">
             <div className="flex w-full items-center justify-between">
                <h3 className="py-0 text-xl font-black uppercase leading-heavy text-default-black md:py-2.5 md:text-2xl">
-                  Satisfaction Guarantee
+                  Quality Promise
                </h3>
                {active === 3 ? (
                   <button
@@ -104,9 +102,8 @@ const BenefitAccordion = () => {
                })}
             >
                <p className="font-body text-base font-normal text-default-tertiary lg:text-lg lg:leading-7">
-                  Emphasize your commitment to providing best top-quality
-                  workmanship ensuring that all repairs are done to the highest
-                  standards to guarantee customer satisfaction and safety.
+                  We're committed to providing an amazing experience. Our shop only uses parts 
+                  from reputable brands to ensure that your vehicle is always primed and ready to go.
                </p>
             </div>
          </div>

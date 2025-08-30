@@ -38,8 +38,7 @@ const About = () => {
                   }}
                >
                   <p className="z-10 text-base font-extrabold uppercase text-default-foreground lg:text-lg">
-                     “Maecenas ultrices tempor in sociis ipsum metus
-                     sollicitudin Orci pellen”
+                     &quot;We understand that auto repair can be stressful, which is why we strive to maintain constant communication with our customers throughout the entire process.&quot;
                   </p>
                   <SpannerIcon className="absolute right-20 top-1/2 -z-10 h-[68px] w-[74px] -translate-y-2/4 fill-[#D6D7DD]" />
                </div>
@@ -59,10 +58,10 @@ const About = () => {
                   </div>
                   <div className="leading-normal">
                      <h4 className="text-base font-extrabold uppercase leading-7 text-default-black lg:text-lg">
-                        Davide miller
+                        Si&apos;s Auto Team
                      </h4>
                      <p className="font-body text-base font-normal text-default-tertiary lg:text-lg">
-                        Founder
+                        Expert Mechanics
                      </p>
                   </div>
                </div>

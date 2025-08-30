@@ -8,28 +8,28 @@ const Services = () => {
          </h4>
          <ul className="text-lg font-normal leading-9 text-default-foreground">
             <li className="transition-all duration-200 hover:text-tertiary hover:underline">
-               <Link href="/services/checking-engine">Checking Engine</Link>
+               <Link href="/services/diagnostics">Diagnostics</Link>
             </li>
             <li className="transition-all duration-200 hover:text-tertiary hover:underline">
-               <Link href="/services/ac-repair-service">AC Repair Service</Link>
+               <Link href="/services/oil-change">Oil Changes</Link>
             </li>
             <li className="transition-all duration-200 hover:text-tertiary hover:underline">
-               <Link href="/services/brake-repair">Brake Repair</Link>
+               <Link href="/services/brake-service">Brake Service</Link>
             </li>
             <li className="transition-all duration-200 hover:text-tertiary hover:underline">
-               <Link href="/services/filter-change">Filter Change</Link>
+               <Link href="/services/emissions">Emissions Testing</Link>
             </li>
             <li className="transition-all duration-200 hover:text-tertiary hover:underline">
-               <Link href="/services/emissions">Emissions</Link>
+               <Link href="/services/ac-repair">AC/Heater Repair</Link>
             </li>
             <li className="transition-all duration-200 hover:text-tertiary hover:underline">
-               <Link href="/services/changing-wheel">Changing Wheel</Link>
+               <Link href="/services/suspension">Suspension Repair</Link>
             </li>
             <li className="transition-all duration-200 hover:text-tertiary hover:underline">
-               <Link href="/services/glass-repair">Glass Repair</Link>
+               <Link href="/services/tire-service">Tire Services</Link>
             </li>
             <li className="transition-all duration-200 hover:text-tertiary hover:underline">
-               <Link href="/services/interior-design">Interior Design</Link>
+               <Link href="/services/engine-repair">Engine Repair</Link>
             </li>
          </ul>
       </div>

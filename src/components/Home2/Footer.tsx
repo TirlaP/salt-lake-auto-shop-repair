@@ -85,7 +85,7 @@ const Footer = () => {
                               phone no
                            </h5>
                            <p className="text-lg font-normal leading-7 text-default-foreground">
-                              +1 801-941-1604
+                              +1-801-747-3284
                            </p>
                         </div>
                      </li>

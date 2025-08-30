@@ -16,10 +16,10 @@ const orbitron = Orbitron({
 
 export const metadata: Metadata = {
    title: {
-      template: "%s - Liberty Auto SLC",
-      default: "Liberty Auto SLC - Small neighborhood repair shop with the customer in mind",
+      template: "%s - Si's Auto Repair",
+      default: "Si's Auto Repair - South Salt Lake Auto Shop Repair & Mechanics",
    },
-   description: "Small neighborhood repair shop with the customer in mind. Auto repair isn't cheap but it doesn't have to break the bank. Liberty Auto Repair in Salt Lake City.",
+   description: "Professional auto repair services in South Salt Lake. Expert mechanics with 60+ years experience. Same day service available. Call 801-747-3284 for appointment.",
 };
 
 export default function RootLayout({

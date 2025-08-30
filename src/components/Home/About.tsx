@@ -51,7 +51,7 @@ const AboutSection = () => {
                   }}
                   className="text-center text-4xl font-black text-default md:text-5xl lg:text-start lg:text-6xl lg:leading-[50px] xl:leading-[70px]"
                >
-                  LIBERTY AUTO REPAIRS IN SALT LAKE CITY
+                  SI'S AUTO REPAIR - SOUTH SALT LAKE'S TRUSTED SHOP
                </MotionH2>
 
                <MotionP
@@ -72,10 +72,10 @@ const AboutSection = () => {
                   }}
                   className="text-center font-body text-base font-normal text-default-foreground md:text-lg md:leading-7 lg:text-start"
                >
-                  At Liberty Auto Repair, we&apos;re more than just a vehicle repair shop – we&apos;re a locally owned 
-                  business with deep roots in Salt Lake City. Founded by Will Neuman, a dedicated car enthusiast 
-                  with years of experience in the automotive industry, we pride ourselves on providing high-quality 
-                  repair services at affordable prices.
+                  Welcome to Si's Auto Repair, your trusted automotive service center in South Salt Lake. Under new ownership, 
+                  we're committed to providing exceptional auto repair services with the same dedication to quality and customer 
+                  satisfaction. Our experienced team of mechanics brings over 60 years of combined expertise to every repair, 
+                  ensuring your vehicle receives the professional care it deserves at competitive prices.
                </MotionP>
 
                <MotionDiv
@@ -100,8 +100,8 @@ const AboutSection = () => {
                   }}
                >
                   <p className="text-xs font-extrabold uppercase text-default-foreground sm:text-sm md:text-base xl:text-lg">
-                     &quot;Auto repair isn&apos;t cheap but it doesn&apos;t have to break the bank, 
-                     that&apos;s why we&apos;re here to help.&quot;
+                     &quot;Professional auto repair with over 60 years of combined experience. 
+                     Same day service available for most repairs.&quot;
                   </p>
                   <SpannerIcon className="absolute right-20 top-1/2 -translate-y-2/4 fill-white opacity-10" />
                </MotionDiv>
@@ -156,10 +156,10 @@ const Founder = ({ className }: FounderProps) => {
       >
          <div className="leading-normal">
             <h4 className="text-lg font-extrabold uppercase leading-7 text-default">
-               Will Neuman
+               Si's Auto Team
             </h4>
             <p className="font-body text-lg font-normal text-default-foreground">
-               Owner & Lead Mechanic
+               Expert Mechanics
             </p>
          </div>
          <div>

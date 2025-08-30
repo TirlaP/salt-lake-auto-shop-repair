@@ -80,7 +80,7 @@ export function GetInTouchForm() {
                   }}
                   className="mb-3 font-header text-[35px] font-black uppercase leading-[40px] text-default md:mb-5 md:text-[45px] md:leading-[55px] lg:mb-7 lg:text-[60px] lg:leading-[70px] xl:mb-9"
                >
-                  GET IN TOUCH
+                  BOOK AN APPOINTMENT
                </MotionH1>
                <div className="flex w-full flex-col gap-y-4 md:gap-y-[30px]">
                   <MotionDiv

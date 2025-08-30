@@ -11,25 +11,25 @@ import {
 const service1_data = [
    {
       id: 1,
-      title: "Oil\nChanges",
+      title: "Diagnostics",
       bgImage: "bg-[url('/images/image-44.png')]",
       Icon: OilIcon,
    },
    {
       id: 2,
-      title: "Brake\nService",
+      title: "Brakes",
       bgImage: "bg-[url('/images/image-45.png')]",
       Icon: DiscBrakeIcon,
    },
    {
       id: 3,
-      title: "Tune\nUps",
+      title: "Oil\nChanges",
       bgImage: "bg-[url('/images/image-46.png')]",
       Icon: CarEngineIcon,
    },
    {
       id: 4,
-      title: "General Auto\nRepair",
+      title: "Front End\nRepairs",
       bgImage: "bg-[url('/images/image-47.png')]",
       Icon: WrenchIcon,
    },
@@ -38,26 +38,26 @@ const service1_data = [
 const features1_data = [
    {
       id: 1,
-      title: "best technician",
-      desc: "Aliquet morbi euismod justo acide velen imperd ligula nase posuere",
+      title: "Same Day Service",
+      desc: "We offer same day service for most repairs to get you back on the road quickly",
       icon: "icon-2.png",
    },
    {
       id: 2,
-      title: "full warranty",
-      desc: "Aliquet morbi euismod justo acide velen imperd ligula nase posuere",
+      title: "60+ Years Experience",
+      desc: "Combined experience of over 60 years across our team of skilled mechanics",
       icon: "icon-3.png",
    },
    {
       id: 3,
-      title: "domestic repair",
-      desc: "Aliquet morbi euismod justo acide velen imperd ligula nase posuere",
+      title: "Quality Parts Only",
+      desc: "We use only reputable brand parts to ensure your vehicle's reliability and safety",
       icon: "icon-4.png",
    },
    {
       id: 4,
-      title: "client familiar",
-      desc: "Aliquet morbi euismod justo acide velen imperd ligula nase posuere",
+      title: "Under New Ownership",
+      desc: "Fresh commitment to excellence with the same trusted service you've come to expect",
       icon: "icon-5.png",
    },
 ];
@@ -605,9 +605,9 @@ const testimonial1_carousel = [
    {
       id: 3,
       content:
-         "WILL'S PASSION FOR CARS BEGAN AS A HOBBY IN HIS GARAGE, WHERE HE SPENT COUNTLESS HOURS FIXING AND FINE-TUNING VEHICLES FOR FRIENDS AND FAMILY. TODAY, LIBERTY AUTO REPAIR STANDS AS A TESTAMENT TO WILL'S COMMITMENT TO OFFERING HONEST, RELIABLE SERVICE TO EVERY CUSTOMER.",
+         "SI'S AUTO REPAIR HAS BEEN SERVING THE SOUTH SALT LAKE COMMUNITY WITH PROFESSIONAL AUTOMOTIVE SERVICES. UNDER NEW OWNERSHIP, WE CONTINUE TO PROVIDE EXCEPTIONAL REPAIR SERVICES BACKED BY OVER 60 YEARS OF COMBINED MECHANICAL EXPERTISE. OUR TEAM IS COMMITTED TO OFFERING HONEST, RELIABLE SERVICE TO EVERY CUSTOMER.",
       author: {
-         name: "Liberty Auto Team",
+         name: "Si's Auto Team",
          designation: "About Our Shop",
          img: "/images/image-57.png",
       },

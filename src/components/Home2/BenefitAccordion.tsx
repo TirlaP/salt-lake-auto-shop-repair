@@ -69,7 +69,7 @@ const BenefitAccordion = () => {
                })}
             >
                <p className="font-body text-base font-normal text-default-tertiary lg:text-lg lg:leading-7">
-                  Whether you're coming in for a routine inspection or a repair service, 
+                  Whether you&apos;re coming in for a routine inspection or a repair service, 
                   we promise that you will be completely satisfied with our work at fair, competitive prices.
                </p>
             </div>
@@ -102,7 +102,7 @@ const BenefitAccordion = () => {
                })}
             >
                <p className="font-body text-base font-normal text-default-tertiary lg:text-lg lg:leading-7">
-                  We're committed to providing an amazing experience. Our shop only uses parts 
+                  We&apos;re committed to providing an amazing experience. Our shop only uses parts 
                   from reputable brands to ensure that your vehicle is always primed and ready to go.
                </p>
             </div>
